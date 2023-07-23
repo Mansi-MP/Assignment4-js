@@ -1,0 +1,26 @@
+/* Styles for the page layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Additional styling (optional) */
+button:hover {
+    background-color: #0056b3;
+}
